@@ -44,4 +44,3 @@ B5: Add your compiled CSS file output.css.
 - Styles: scss
 - view: pages of project
 - services: Call API
-- test: test
